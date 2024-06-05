@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sreen/OneDrive/Desktop/python/MachineLearningmodels/mlflow/mlruns/0/2500a066d4d94023812f3b8976c056f9/artifacts
+end_time: 1717563031820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2500a066d4d94023812f3b8976c056f9
+run_name: suave-dove-184
+run_uuid: 2500a066d4d94023812f3b8976c056f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717563026095
+status: 3
+tags: []
+user_id: sreen

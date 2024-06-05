@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sreen/OneDrive/Desktop/python/MachineLearningmodels/mlflow/mlruns/0/de7b992fdde24764b5575a6386e18e9c/artifacts
+end_time: 1717562713833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de7b992fdde24764b5575a6386e18e9c
+run_name: resilient-snipe-180
+run_uuid: de7b992fdde24764b5575a6386e18e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717562707113
+status: 3
+tags: []
+user_id: sreen

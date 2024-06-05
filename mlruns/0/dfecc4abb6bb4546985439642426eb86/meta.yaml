@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sreen/OneDrive/Desktop/python/MachineLearningmodels/mlflow/mlruns/0/dfecc4abb6bb4546985439642426eb86/artifacts
+end_time: 1717563068062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfecc4abb6bb4546985439642426eb86
+run_name: placid-swan-818
+run_uuid: dfecc4abb6bb4546985439642426eb86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717563062358
+status: 3
+tags: []
+user_id: sreen
